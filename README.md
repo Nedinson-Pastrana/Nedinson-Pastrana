@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de Mi:
 Perfil de Git Hub - Nedinson Pastrana<br><br>!Hola¡ soy Nedinson , soy aprendiz  del tecnico en programacion de software  <br>ficha - 2875029<br><br>Mi objetivo es aprender y compartir mis conocimientos y experiencias, para ayudar a otros<br>a aprender y crecer en el mundo de la programacion.⚡<br><br>Soy un aprendiz apasionado de programación en software, comprometido con el aprendizaje continuo y el desarrollo de habilidades técnicas. <br>Mi objetivo es convertir mi curiosidad y entusiasmo en soluciones tecnológicas innovadoras. Actualmente, estoy adquiriendo conocimientos en<br> diversos lenguajes de programación y herramientas de desarrollo, con un enfoque en crear aplicaciones eficientes y funcionales.<br>Estoy dedicado a comprender los fundamentos de la programación y a explorar nuevas tecnologías, con la intención de contribuir a proyectos<br> significativos y desafiantes. Mi espíritu autodidacta y mi deseo de resolver problemas complejos me impulsan a mejorar constantemente y a mantenerme<br> actualizado con las últimas tendencias en el campo del desarrollo de software.<br><br>
 
 
